@@ -1,6 +1,6 @@
 {
-    "version": "1.0.107",
-    "download_url": "https://raw.githubusercontent.com/dessperado30-gif/ErsanMailClient/main/ErsanMailClient_Setup_1.0.107.exe",
-    "delta_url": "https://raw.githubusercontent.com/dessperado30-gif/ErsanMailClient/main/delta/1.0.107_to_1.0.107.zip",
-    "base_version": "1.0.107"
+    "version": "1.0.105",
+    "download_url": "https://raw.githubusercontent.com/dessperado30-gif/ErsanMailClient/main/ErsanMailClient_Setup_1.0.105.exe",
+    "delta_url": "https://raw.githubusercontent.com/dessperado30-gif/ErsanMailClient/main/delta/1.0.104_to_1.0.105.zip",
+    "base_version": "1.0.104"
 }
