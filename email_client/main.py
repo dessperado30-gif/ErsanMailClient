@@ -1,4 +1,4 @@
-from update_checker import check_for_updates
+from email_client.update_checker import check_for_updates
 
 if __name__ == "__main__":
     check_for_updates()
